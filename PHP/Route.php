@@ -1,4 +1,5 @@
-public class Route {
+<?php
+class Route {
     public $id;
     public $start;
     public $end;
